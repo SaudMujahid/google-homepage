@@ -1,0 +1,2 @@
+Hey there1 I am saud mujahid i am from bangladesh and this was my first project i created. It was a quite challenging, understanding the box model, flexbox and how to arramge its items, styling the plain html, adding images, etc etc. Basically everything was tough to grasp but after having spend hours just typing whatever i wanted while seeing the live changes being made using live server  did clear most of confussion. 
+Anyways thats all for my breif experience. This for sure will not be my last ;)

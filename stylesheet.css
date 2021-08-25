@@ -103,3 +103,28 @@ footer > nav {
   align-items: center;
   margin-right: 20px;
 }
+@media (max-height:630px){
+  footer {
+    flex-direction: column;
+  }
+
+  .footer-left {
+    justify-content: center;
+  }
+  .footer-right {
+    justify-content: center;
+  }
+.main {
+  width: 95vw;
+}
+@@media (max-width: 520px) {
+  body{
+    overflow-x: hidden;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+  footer {
+    position: relative;
+  }
+}
