@@ -117,7 +117,7 @@ footer > nav {
 .main {
   width: 95vw;
 }
-@@media (max-width: 520px) {
+@media (max-width: 520px) {
   body{
     overflow-x: hidden;
   }
